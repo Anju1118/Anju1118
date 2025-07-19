@@ -56,9 +56,8 @@
 
 <p align="center">
   <a href="mailto:anjusreek.kannan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28"/></a>
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
+  <a href="https://www.linkedin.com/in/anjusree0908"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/></a>
   <a href="https://github.com/Anju1118"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28"/></a>
-  <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="28"/></a>
   <br>
  
 
@@ -67,11 +66,11 @@
 ## 🎨 Languages Spoken
 
 <p align="center">
-  <img src="https://img.icons8.com/color/40/000000/india.png" title="Tamil"/> <b>Tamil</b> (Native)
-  &emsp;|&emsp;
   <img src="https://img.icons8.com/color/40/000000/great-britain-circular.png" title="English"/> <b>English</b> (Professional)
   &emsp;|&emsp;
-  <img src="https://img.icons8.com/color/40/000000/kerala.png" title="Malayalam"/> <b>Malayalam</b> (Conversational)
+  <img src="https://img.icons8.com/color/40/000000/india.png" title="Tamil"/> <b>Tamil</b> (Native)
+  &emsp;|&emsp;
+  <img src="https://img.icons8.com/color/40/000000/india.png" title="Malayalam"/> <b>Malayalam</b> (Conversational)
 </p>
 
 ---
