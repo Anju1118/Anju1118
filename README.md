@@ -1,10 +1,7 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/108647631?s=400&v=4" width="120" style="border-radius:50%;" alt="Profile Photo"/>
 </p>
-
-<h1 align="center" style="color:#2D9CDB;">✨ Artificial Intelligence & Data Science Student ✨</h1>
 <h3 align="center" style="color:#27ae60;"><i>Aspiring Machine Learning Engineer</i></h3>
-
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" height="60" alt="AI Logo"/>
 </p>
